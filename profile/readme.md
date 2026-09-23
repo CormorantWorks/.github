@@ -35,6 +35,6 @@
                                        -+###############*=:
                                          .-+*#######**=:
                                             .:=+*+=-
-  We are a little team that designs, develops and builds small (or somewhat big) remote controlled aicraft.
+  We are a little team that designs, develops and builds small (or somewhat big) remote controlled aircraft.
   
                                 
